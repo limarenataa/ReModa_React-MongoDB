@@ -1,4 +1,4 @@
-# ReModa - Refatoração do banco de dados SQL para NoSQL
+# Projeto ReModa 
 
 Meu primeiro projeto individual desenvolvido como fixação de aprendizado em desenvolvimento web. 
 
@@ -7,6 +7,8 @@ Meu primeiro projeto individual desenvolvido como fixação de aprendizado em de
  - Front-end em React
  - Back-end NodeJs
  - Banco de Dados NoSQL - MongoDB
+
+## Refatoração do banco de dados SQL para NoSQL
 
 ## Feito
 
